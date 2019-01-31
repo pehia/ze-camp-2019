@@ -1,0 +1,10 @@
+<h1><b><u>HTML</b></h1></u>
+<p><h2><b>what is html?</p></h2></b>
+<br><i><p>HTML is the standard markup language for creating Web pages.</i></p>
+
+<br><i>HTML stands for Hyper Text Markup Language</i>
+<br><i><p>HTML describes the structure of Web pages using markup</i></p>
+<br><i>HTML elements are the building blocks of HTML pages</i>
+<br><i>HTML elements are represented by tags</i>
+<br><i>HTML tags label pieces of content such as "heading", "paragraph", "table", and so on</i>
+<br><i>Browsers do not display the HTML tags, but use them to render the content of the page</i>

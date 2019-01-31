@@ -1,0 +1,12 @@
+print("deepu")
+print("jose")
+print("ani")
+print(2**3)
+a=2
+b=4
+c=2
+d=1
+print(a+b+c+1)
+a=input()
+b=input()
+print(a,b)
